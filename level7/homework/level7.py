@@ -40,17 +40,15 @@
 #(სახელი, გვარი, ასაკი, ქვეყანა, ქალაქი, საყვარელი ფერი, საყვარელი მანქანა, საყვარელი საჭმელი, საყვარელი სპორტი)
 #შემდეგ შემოტანილი მნიშვნელობებით ააწყვეტ ერთი დიდი წინადადება.
 
-name = input('enter ur name:  ')
-last_name = input('enter ur last name:  ')
-age = input('enter ur age:  ')
-country = input('which country do u live:  ')
-color = input('enter ur fav color:  ')
-car = input('enter ur fav car:  ')
-food = input('enter ur fav food:  ')
-sport = input('enter fav sport:  ')
-  
-
-print("hello,'my name is ' + name 'my last name ' + last_name 'my age ' + age 'i live in ' + country 'fav color is ' + color 'my fav car is ' + car 'my fav food is ' + food 'my fav sport is ' + sport")
+#name = input('enter ur name:  ')
+#last_name = input('enter ur last name:  ')
+#age = input('enter ur age:  ')
+#country = input('which country do u live:  ')
+#color = input('enter ur fav color:  ')
+#car = input('enter ur fav car:  ')
+#food = input('enter ur fav food:  ')
+#port = input('enter fav sport:  ')
+#print("hello,'my name is ' + name 'my last name ' + last_name 'my age ' + age 'i live in ' + country 'fav color is ' + color 'my fav car is ' + car 'my fav food is ' + food 'my fav sport is ' + sport")
 
 
 
