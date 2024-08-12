@@ -26,7 +26,7 @@
 #after_20_years = grandfather_age + 20
 #print('grandfather after 20 years will be', after_20_years)
       
-#grandmother_age = int(input('enter grandmother_age:  '))
+#grandmother_age = int(input('enter grandmother_age:  '))    
 #after_20_years = grandmother_age + 20
 #print('grandmother age ater 20 years will be', after_20_years)
 
